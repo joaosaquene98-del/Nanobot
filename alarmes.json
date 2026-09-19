@@ -1,0 +1,51 @@
+{
+  "120363421228229250@g.us": {
+    "abrir": "12:15",
+    "fechar": "12:17",
+    "ativo": true,
+    "aberto": false,
+    "fechado": true
+  },
+  "120363403304646490@g.us": {
+    "abrir": "06:30",
+    "fechar": "22:50",
+    "ativo": true,
+    "fechado": true,
+    "aberto": false
+  },
+  "120363418499735136@g.us": {
+    "abrir": "13:30",
+    "fechar": "22:00",
+    "ativo": true,
+    "aberto": false,
+    "fechado": true
+  },
+  "120363424268979865@g.us": {
+    "abrir": "06:30",
+    "fechar": "22:30",
+    "ativo": true,
+    "fechado": true,
+    "aberto": false
+  },
+  "120363397243580350@g.us": {
+    "abrir": "06:30",
+    "fechar": "22:30",
+    "ativo": true,
+    "fechado": true,
+    "aberto": false
+  },
+  "120363419594042941@g.us": {
+    "abrir": "07:00",
+    "fechar": "22:30",
+    "ativo": true,
+    "fechado": true,
+    "aberto": false
+  },
+  "120363421982488000@g.us": {
+    "abrir": "06:30",
+    "fechar": "23:30",
+    "ativo": true,
+    "fechado": true,
+    "aberto": false
+  }
+}
